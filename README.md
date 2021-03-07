@@ -22,5 +22,5 @@ Facial expressions are the motions and positions of your eyes, nose, ears, and m
 
 ### Facial Expression and Body Language Research and Charts
 
-[On this page](./another-page.html), you will be able to view charts that I created to analyze facial expressions and body language.
+[On this page](./another-page.md), you will be able to view charts that I created to analyze facial expressions and body language.
 
