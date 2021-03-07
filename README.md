@@ -9,6 +9,8 @@
 
 I chose to do my PBL on psychology because learning psychology is fun for me. I enjoy learning more things about people, although I never met them in person before. Being a psychologist is like having “X-ray eyes”, they know almost all the things that people want to express or emotions they are hiding from only one simple movement. By choosing to focus on body language and facial expression, I hoped that this activity could let me learn more about people’s emotions and thoughts, which I think is fascinating.
 
+![searching](https://github.com/Winnie122-kwai/Winnie122-kwai.github.io/blob/main/assets/undraw_searching_p5ux%20(1).png?raw=true)
+
 ### Why should we learn about Psychology?
 Psychology helps you to understand yourself and other people, understand the aspects of human behavior everyday, the interactions with people, your learning and memory performance, and your ability to cope with pressure.
 
@@ -16,6 +18,8 @@ Psychology helps you to understand yourself and other people, understand the asp
 ## Body Language
 
 Body language is the movement and position of one’s body at any point in time. It's also a way of physically communicating by using your body. During social interactions, body language can tell us important things about how someone is feeling or what they may be thinking. Body language includes: body posture, gestures, eye movement, touch, the use of space, and so on. Studying body language has allowed certain fields of law enforcement and science to advance and make strides in the way they observe people.
+
+![conversation](https://github.com/Winnie122-kwai/Winnie122-kwai.github.io/blob/main/assets/undraw_conversation_h12g%20(1)%20(1).png?raw=true)
 
 ### Why is it important to learn about body language? 
 
