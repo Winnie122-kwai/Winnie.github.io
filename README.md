@@ -34,6 +34,12 @@ Facial expressions are the motions and positions of your eyes, nose, ears, and m
 [On this page](./another-page.md), you will be able to view charts that I created to analyze facial expressions and body language.
 
 
+## What kind of evolutionary benefit might processing facial expressions have amongst the human species?
+
+Over the past few centuries, people evolved to understand facial expressions because they use facial expressions to learn about people, be able to address whether or not a persona is a threat, or whether or not someone, like a younger child is in need to help, also helps to show our own identities. From my research, I have learned that facial expression recognition helps the next generations to learn nonverbal communication. This is important to develop nonverbal communication skills to connect with people no matter their level or method of verbal communication.
+Nonverbal communication is important for many reasons. Consider the occasion in which people can’t speak, when they don’t share a language, or when people might be in a situation where it is dangerous to speak.
+
+
 ## Dr. Paul Ekman and his contributions to the field
 
 Dr. Paul Ekman, 74, is an American Psychologist. He has spent his life documenting every twitch, eye movement, body shift, and lip quiver that offers clues about who is telling the truth. His work is the basis for the 2009 American Drama Series, Lie To Me. The series debuted in 2009 and ran for 3 seasons before being cancelled in 2011. He is also well renowned for his studies of different facial expressions across various cultures. 
