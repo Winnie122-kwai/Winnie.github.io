@@ -19,3 +19,8 @@ Body language is a good way to learn about and understand people in various cont
 ## Facial Expressions
 
 Facial expressions are the motions and positions of your eyes, nose, ears, and mouth that are shown on your face. These movements show how people feel at that time. They are the most direct ways of communicating one’s emotions to their environment and those around them. Facial expressions are very important in people’s health, because facial expressions can show how people are thinking, which indicate an individual's intentions within a social situation. During my research, I also learned about microexpressions, which are significantly smaller and quicker changes of the face. Microexpressions are harder to notice, and tend to reveal much more about a person’s psychological state. 
+
+### Facial Expression and Body Language Research and Charts
+
+[On this page](./another-page.html), you will be able to view charts that I created to analyze facial expressions and body language.
+
