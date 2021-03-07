@@ -2,10 +2,14 @@
 
 | Emotion      | Expression        | etc.  |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Happiness    | good swedish fish | nice  |
+| Sadness      | good and plenty   | nice  |
+| Surprise     | good `oreos`      | hmm   |
+| Fear         | good `zoute` drop | yumm  |
+| Disgust      |        -           | yumm  |
+| Anger        |        -           | yumm  |
+| Contempt/ Hate|        -           | yumm  |
+| Disgust      |       -            | yumm  |
 
 
 [back](./)
