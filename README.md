@@ -1,5 +1,10 @@
 # A Peek into Facial Expressions, Body Language, and Psychology
 
+## Essential Questions
+
+1.  What do facial expressions and body language tell us about how someone is feeling?
+2.  Why have humans developped skills to understand facial expressions?
+
 ## Abstract
 
 I chose to do my PBL on psychology because learning psychology is fun for me. I enjoy learning more things about people, although I never met them in person before. Being a psychologist is like having “X-ray eyes”, they know almost all the things that people want to express or emotions they are hiding from only one simple movement. By choosing to focus on body language and facial expression, I hoped that this activity could let me learn more about people’s emotions and thoughts, which I think is fascinating.
