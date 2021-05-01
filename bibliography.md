@@ -8,12 +8,12 @@ Matsumoto, David, and Hyi  Sung Hwang . “Reading Facial Expressions of Emotion
 
 Ekman, Paul. “Universals and Cultural Differences in Facial Expressions of Emotion.” Universal Facial Expressions, Paul Eckman Group LLC, www.paulekman.com/resources/universal-facial-expressions/.
 
-Video's Sourced
+###Video's Sourced
 
--https://www.youtube.com/watch?v=tu1uzG_EBGM&t=4s
--https://www.youtube.com/watch?v=VAB9cUlGrRo&t=1s
--https://www.youtube.com/watch?v=lvxJoUuG018
--https://fremont.edu/how-to-read-body-language-revealing-the-secrets-behind-common-nonverbal-cues/#hands
--https://youtu.be/QBGmXRYC1io
--https://www.youtube.com/watch?v=J9i-9_QuetA
+* https://www.youtube.com/watch?v=tu1uzG_EBGM&t=4s
+* https://www.youtube.com/watch?v=VAB9cUlGrRo&t=1s
+* https://www.youtube.com/watch?v=lvxJoUuG018
+* https://fremont.edu/how-to-read-body-language-revealing-the-secrets-behind-common-nonverbal-cues/#hands
+* https://youtu.be/QBGmXRYC1io
+* https://www.youtube.com/watch?v=J9i-9_QuetA
 
